@@ -1,0 +1,2 @@
+C:/Users/f20ma/Documents/GitHub/basetime_app/android/app/.cxx/Debug/2d386c3i/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/f20ma/Documents/GitHub/basetime_app/android/app/.cxx/Debug/2d386c3i/armeabi-v7a/CMakeFiles/rebuild_cache.dir

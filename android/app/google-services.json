@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "563776472645",
+    "project_id": "basetime-301f5",
+    "storage_bucket": "basetime-301f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563776472645:android:a20508a8e29e418793c52c",
+        "android_client_info": {
+          "package_name": "com.basetime.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOUkPQ5oufDBW59y_VLW0MtjkJRB2c7BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563776472645:android:9e281a344cb48f3293c52c",
+        "android_client_info": {
+          "package_name": "com.manu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOUkPQ5oufDBW59y_VLW0MtjkJRB2c7BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

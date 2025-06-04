@@ -1,0 +1,242 @@
+{
+  "@@locale": "es",
+  "about": "Acerca de",
+  "aboutYourself": "Cuéntanos sobre tí",
+  "accountNumber": "Número de cuenta",
+  "@accountNumber": {},
+  "activeMatch": "Activar Match",
+  "actives": "Activos",
+  "add": "Agregar",
+  "addToken": "Agregar ficha",
+  "and": "y",
+  "backToHome": "Volver al inicio",
+  "balanceDescription": "Aca veras el saldo a favor que ganes por referidos con Base Time, el cual podrás usar para realizar Matchs",
+  "balancePriceDescription": "Actualmente tienes un saldo de ",
+  "bank": "Banco",
+  "@bank": {},
+  "calendar": "Calendario",
+  "camera": "Cámara",
+  "cancel": "Cancelar",
+  "cancellationMeetAlert": "Tu Match no ha deseado continuar con el meeting...esperamos sea en otra ocasión",
+  "@cancellationMeetAlert": {},
+  "cardData": "Datos Tarjeta",
+  "categories": "Categorías",
+  "categoriesDescription": "Selecciona tus gustos y los perfiles que deseas encontrar",
+  "change": "Cambiar",
+  "changePhotoConfirm": "Quieres cambiar esta foto en realidad?",
+  "@changePhotoConfirm": {},
+  "chat": "Chat",
+  "checkingAccount": "Cuenta corriente",
+  "@checkingAccount": {},
+  "classifications": "Clasificaciones",
+  "completedMeetAlert": "Tu Match ha terminado, ¡vuelve al inicio y sigue buscando nuevas personas!",
+  "@completedMeetAlert": {},
+  "completeProfile": "Completar perfil",
+  "confirmMatch": "Estas a punto de hacer match para {hours}h de servicio por {amount} cop",
+  "@confirmMatch": {
+    "placeholders": {
+      "hours": {
+        "type": "num"
+      },
+      "amount": {
+        "type": "num",
+        "format": "compact"
+      }
+    }
+  },
+  "continueText": "Continuar",
+  "copInFavor": "${amount} cop a favor",
+  "@copInFavor": {
+    "placeholders": {
+      "amount": {
+        "type": "num",
+        "format": "compact"
+      }
+    }
+  },
+  "copyLink": "Copiar enlace",
+  "createAccount": "Crear cuenta",
+  "credit": "Crédito",
+  "creditCard": "Tarjeta de crédito",
+  "debitCard": "Tarjeta de débito",
+  "deleteAccount": "Eliminar cuenta",
+  "deleteAccountAlert": "¿Seguro que deseas borrar tu cuenta?",
+  "deletedAccountAlert": "La cuenta {account} ha sido borrada.",
+  "@deletedAccountAlert": {
+    "placeholders": {
+      "account": {
+        "type": "String"
+      }
+    }
+  },
+  "description": "Descripción",
+  "discountCoupon": "Cupon de descuento",
+  "dniBackPhoto": "Foto detrás cédula",
+  "@dniBackPhoto": {},
+  "dniFrontPhoto": "Foto de frente cédula",
+  "@dniFrontPhoto": {},
+  "dniSelfie": "Foto de perfil sosteniendo cédula",
+  "@dniSelfie": {},
+  "dollars": "${amount} cop",
+  "@dollars": {
+    "placeholders": {
+      "amount": {
+        "type": "num",
+        "format": "compact"
+      }
+    }
+  },
+  "dollarsXHour": "${amount} cop x hora",
+  "@dollarsXHour": {
+    "placeholders": {
+      "amount": {
+        "type": "num",
+        "format": "compact"
+      }
+    }
+  },
+  "dollarsXHourHint": "COP por hora",
+  "editProfile": "Editar Perfil",
+  "editToken": "Editar ficha",
+  "email": "Correo",
+  "emptyFeedMessage": "Por ahora no hay profesionales cerca de ti.",
+  "emptyPaymentAccounts": "No tienes cuentas bancarias",
+  "emptyPaymentMethods": "No tienes métodos de pagos",
+  "emptyReferralsMessage": "No has registrado referidos aún.",
+  "@emptyReferralsMessage": {},
+  "emptyTokens": "No tienes fichas",
+  "emptyTokensMessanger": "Este usuario no tiene perfiles aún.",
+  "@emptyTokensMessanger": {},
+  "favorites": "Favoritos",
+  "filters": "Filtros",
+  "firstname": "Nombre",
+  "forgotPassword": "Recuperar contraseña",
+  "gallery": "Galería",
+  "geoDescription": "Selecciona los kilometros a la redonda que quieres buscar, o activa el swich global para buscar en cualquier parte del mundo",
+  "geolocation": "Geolocalización",
+  "globalSearch": "Búsqueda global",
+  "hereYouWillSeePayments": "Aca veras el saldo a favor que ganes por referidos con Base Time, el cual podrás usar para realizar Matchs",
+  "home": "Inicio",
+  "hours": "{amount} horas",
+  "@hours": {
+    "placeholders": {
+      "amount": {
+        "type": "num"
+      }
+    }
+  },
+  "hoursMeet": "{count} horas meet",
+  "@hoursMeet": {
+    "placeholders": {
+      "count": {
+        "type": "num"
+      }
+    }
+  },
+  "iAgreeToHaveRead": "Acepto haber leido los",
+  "id": "Cédula",
+  "inactive": "Inactivos",
+  "invalidID": "La cédula que ingresaste ya existe en el sistema, por favor rectifica que tus datos estén bien y vuelve a intentar",
+  "invalidPromoterID": "La cédula del promotor que ingresaste no existe, por favor rectifica que los datos estén bien y vuelve a intentar",
+  "lastname": "Apellidos",
+  "majorYearsOld": "Soy mayor de 18 años",
+  "makePayment": "Hacer pago",
+  "matches": "Matches",
+  "matchHours": "Horas de match",
+  "meet": "Meet",
+  "meets": "Meets",
+  "meetTime": "Tiempo de reunión",
+  "myAccount": "Mi cuenta",
+  "myPaymentAccounts": "Mis cuentas de recaudo",
+  "@myPaymentAccounts": {},
+  "myPaymentMethods": "Mis métodos de pago",
+  "myReferrals": "Mis referidos",
+  "@myReferrals": {},
+  "newPaymentAccount": "Nueva cuenta de recaudo",
+  "@newPaymentAccount": {},
+  "newPaymentMethod": "Nuevo método de pago",
+  "next": "Siguiente",
+  "no": "No",
+  "notifications": "Notificaciones",
+  "numberOfInstallments": "Número de cuotas",
+  "optional": "Opcional",
+  "password": "Contraseña",
+  "password8length": "La contraseña debe tener al menos 8 caracteres",
+  "passwordHasBeenChanged": "La contraseña ha sido modificada correctamente",
+  "passwordShouldNotPassword": "La contraseña no debe ser \"contraseña\"",
+  "passwordVerification": "Su verificación de contraseña debe ser igual a su contraseña",
+  "paymentData": "Datos de pago",
+  "paymentMethod": "Método de pago",
+  "paymentRejected": "¡No hemos podido realizar tu pago, intenta con otro método!",
+  "payments": "Pagos",
+  "paymentSuccess": "¡Tu pago se ha realizado con éxito!",
+  "paymentToStartMatch": "Pagar para iniciar match",
+  "phoneNumber": "Número de teléfono",
+  "points": "Puntos",
+  "policy": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consectetur id massa tincidunt fringilla. Etiam a nunc odio. Mauris nec euismod erat. Ut dignissim nunc a vulputate scelerisque. Nunc suscipit purus odio, tempus feugiat libero pellentesque et. Sed porttitor malesuada sapien, ut aliquam justo iaculis sed. Sed vulputate lacus eget faucibus ornare. Nam suscipit condimentum elementum.\n\nMauris rhoncus nulla ac risus euismod consequat. Fusce massa sapien, aliquam id suscipit ut, semper in nibh. Nulla mauris magna, ornare a ex non, luctus tincidunt nibh. Donec ornare augue ipsum, ac fermentum elit ullamcorper sit amet. Cras sit amet nibh ac lacus dictum laoreet et nec quam. Integer malesuada enim tortor, eget pellentesque sem bibendum non. Ut quis lectus augue. Quisque nec dui cursus, malesuada ipsum nec, tempus neque. Curabitur nisi augue, sodales quis arcu eget, tempor maximus sapien.\n\nMauris mi sapien, commodo semper felis non, congue blandit neque. Vestibulum condimentum magna a fermentum sagittis. Integer nisl magna, vestibulum at erat vel, rutrum ultricies erat. Maecenas faucibus velit eget libero rhoncus, a molestie lectus consectetur. Proin finibus erat ut pulvinar efficitur. Phasellus elementum lorem a erat porttitor gravida. Nullam id mauris eget tortor vestibulum congue vitae sed diam. Fusce eu magna dapibus, auctor ligula id, placerat nunc. Vivamus bibendum aliquet maximus. Aenean enim felis, tristique sed dui ac, laoreet faucibus arcu. Nullam id quam placerat ex venenatis vestibulum eget ut turpis. Nunc consequat, purus ut iaculis eleifend, metus nisl facilisis orci, vitae dignissim tortor quam id sem.\n\nPellentesque molestie suscipit lorem. Nulla facilisi. Donec a feugiat justo, ut placerat ex. Nunc at consequat libero. Aenean fringilla vestibulum nisi, in consequat nisi vestibulum in. Ut tempor convallis lorem. Donec mollis molestie faucibus. Aenean volutpat consequat lacus vehicula porttitor. Aenean id molestie felis, ac volutpat elit. Cras ut ex ac libero consequat dignissim.\n\nSed vestibulum vitae nisl nec aliquam. Sed varius iaculis commodo. Nam quam purus, elementum quis sem et, porttitor maximus lacus. Maecenas sem ex, tristique tristique maximus vel, auctor non magna. Nulla ut ex at tellus placerat aliquam eu eget orci. In semper a augue in congue. Mauris nulla erat, volutpat at iaculis ac, interdum non ipsum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+  "privacyPolicies": "políticas de privacidad",
+  "promoterId": "Cédula Promotor",
+  "redeemCoupon": "Canjear cupon",
+  "saveChanges": "Guardar cambios",
+  "savingAccount": "Cuenta de ahorros",
+  "@savingAccount": {},
+  "search": "Busqueda",
+  "selectCategoryDescription": "Selecciona tus categorías\n(elige una o más opciones)",
+  "selectLang": "Change to English",
+  "selectSubCategoryDescription": "selecciona tus subcategorías\n(elige una o más opciones)",
+  "selectYourPaymentMethod": "Selecciona tu método de pago",
+  "sendRecoveryPasswordAlertContent": "Te hemos enviado un enlace a tu correo electrónico para recuperar tu contraseña.",
+  "@sendRecoveryPasswordAlertContent": {},
+  "sendRecoveryPasswordCancelText": "Regresar",
+  "@sendRecoveryPasswordCancelText": {},
+  "sendRecoveryPasswordConfirmText": "¿Desea ingresar a su correo?",
+  "@sendRecoveryPasswordConfirmText": {},
+  "signIn": "Iniciar sesión",
+  "signInWithFacebook": "Iniciar sesión con Facebook",
+  "signOut": "Cerrar sesión",
+  "signOutAlert": "¿Seguro que deseas cerrar tu sesión?",
+  "signUpLater": "Registrar después",
+  "skip": "Omitir",
+  "subCategories": "Sub Categorías",
+  "sureOrderedNow": "¿Estas seguro de realizar tu\npedido ahora?",
+  "terms": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consectetur id massa tincidunt fringilla. Etiam a nunc odio. Mauris nec euismod erat. Ut dignissim nunc a vulputate scelerisque. Nunc suscipit purus odio, tempus feugiat libero pellentesque et. Sed porttitor malesuada sapien, ut aliquam justo iaculis sed. Sed vulputate lacus eget faucibus ornare. Nam suscipit condimentum elementum.\n\nMauris rhoncus nulla ac risus euismod consequat. Fusce massa sapien, aliquam id suscipit ut, semper in nibh. Nulla mauris magna, ornare a ex non, luctus tincidunt nibh. Donec ornare augue ipsum, ac fermentum elit ullamcorper sit amet. Cras sit amet nibh ac lacus dictum laoreet et nec quam. Integer malesuada enim tortor, eget pellentesque sem bibendum non. Ut quis lectus augue. Quisque nec dui cursus, malesuada ipsum nec, tempus neque. Curabitur nisi augue, sodales quis arcu eget, tempor maximus sapien.\n\nMauris mi sapien, commodo semper felis non, congue blandit neque. Vestibulum condimentum magna a fermentum sagittis. Integer nisl magna, vestibulum at erat vel, rutrum ultricies erat. Maecenas faucibus velit eget libero rhoncus, a molestie lectus consectetur. Proin finibus erat ut pulvinar efficitur. Phasellus elementum lorem a erat porttitor gravida. Nullam id mauris eget tortor vestibulum congue vitae sed diam. Fusce eu magna dapibus, auctor ligula id, placerat nunc. Vivamus bibendum aliquet maximus. Aenean enim felis, tristique sed dui ac, laoreet faucibus arcu. Nullam id quam placerat ex venenatis vestibulum eget ut turpis. Nunc consequat, purus ut iaculis eleifend, metus nisl facilisis orci, vitae dignissim tortor quam id sem.\n\nPellentesque molestie suscipit lorem. Nulla facilisi. Donec a feugiat justo, ut placerat ex. Nunc at consequat libero. Aenean fringilla vestibulum nisi, in consequat nisi vestibulum in. Ut tempor convallis lorem. Donec mollis molestie faucibus. Aenean volutpat consequat lacus vehicula porttitor. Aenean id molestie felis, ac volutpat elit. Cras ut ex ac libero consequat dignissim.\n\nSed vestibulum vitae nisl nec aliquam. Sed varius iaculis commodo. Nam quam purus, elementum quis sem et, porttitor maximus lacus. Maecenas sem ex, tristique tristique maximus vel, auctor non magna. Nulla ut ex at tellus placerat aliquam eu eget orci. In semper a augue in congue. Mauris nulla erat, volutpat at iaculis ac, interdum non ipsum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+  "termsAndConditions": "términos y condiciones",
+  "thisFieldIsRequired": "¡Este campo es requerido!",
+  "thisSectionInConstruction": "¡Esta sección se encuntra en construcción!",
+  "title": "Título",
+  "titleName": "Nombre titular",
+  "@titleName": {},
+  "titularName": "Nombre titular",
+  "total": "Total",
+  "tryAgain": "Volver a intentar",
+  "unavailableUsername": "El nombre de usuario {username}, no esta disponible",
+  "@unavailableUsername": {
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "uploadDataSuccess": "Tus datos han sido enviados con éxito",
+  "@uploadDataSuccess": {},
+  "uploadVerifyDataConfirm": "Una vez envies las fotos no podras editarlas",
+  "@uploadVerifyDataConfirm": {},
+  "upToDate": "Ya estás al día",
+  "useBTP": "Usar BTP",
+  "username": "Nombre de usuario",
+  "validEmail": "¡Debe ingresar un correo electrónico válido!",
+  "valueHour": "Valor $ hour",
+  "valueHourDescription": "Selecciona el rango de precio que deseas encontrar",
+  "varifyAccountGuide": "A continuación adjunta las siguientes fotos y listo, ¡eso es todo!",
+  "@varifyAccountGuide": {},
+  "verifyAccount": "Verificar Cuenta",
+  "@verifyAccount": {},
+  "verifyAccountDescription": "Para poder realizar un match debes verificar tu cuenta primero, esto te tomara unos pocos minutos y en un simple paso!",
+  "@verifyAccountDescription": {},
+  "verifyAgentNotification": "Uno de nuestros agentes verificara tu cuenta y en un momento podrás hacer ¡tu primer Match¡",
+  "@verifyAgentNotification": {},
+  "verifyPassword": "Verificar contraseña",
+  "verifyYourAccount": "Verifica tu cuenta",
+  "@verifyYourAccount": {},
+  "yes": "Sí"
+}

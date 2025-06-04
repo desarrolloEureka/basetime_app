@@ -1,0 +1,2 @@
+C:/Users/f20ma/Documents/GitHub/basetime_app/android/app/.cxx/RelWithDebInfo/2p5w2u24/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/f20ma/Documents/GitHub/basetime_app/android/app/.cxx/RelWithDebInfo/2p5w2u24/arm64-v8a/CMakeFiles/rebuild_cache.dir
