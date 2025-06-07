@@ -1,10 +1,10 @@
 import 'package:basetime/core/routes/router.dart';
 import 'package:basetime/firebase_options.dart';
+import 'package:basetime/l10n/app_localizations.dart';
 import 'package:basetime/l10n/locale_state.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:form_builder_validators/form_builder_validators.dart';
